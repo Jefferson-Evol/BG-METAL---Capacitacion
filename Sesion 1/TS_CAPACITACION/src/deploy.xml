@@ -1,14 +1,14 @@
 <deploy>
-    <configuration>
+    <!-- <configuration>
         <path>~/AccountConfiguration/*</path>
-    </configuration>
+    </configuration> -->
     <files>
         <path>~/FileCabinet/*</path>
     </files>
     <objects>
         <path>~/Objects/*</path>
     </objects>
-    <translationimports>
+    <!-- <translationimports>
         <path>~/Translations/*</path>
-    </translationimports>
+    </translationimports> -->
 </deploy>
