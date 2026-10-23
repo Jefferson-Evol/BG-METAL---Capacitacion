@@ -10,7 +10,7 @@
 .vscode
 
 # Dependency directories
-node_modules
+
 
 # TypeScript cache
 *.tsbuildinfo
@@ -21,7 +21,7 @@ logs
 npm-debug.log*
 
 # Packaged SuiteCloud projects
-build
+
 
 # misc
 .sass-cache
